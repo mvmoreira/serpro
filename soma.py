@@ -7,6 +7,6 @@ def soma(valor1,valor2):
 valor1 = input("informe o valor 1:")
 valor2 = input("informe o valor 2:")
 
-# ALTERAÇÃO BRANCH 1
+# ALTERAÇÃO BRANCH 3
 
 print(f'A soma é {soma(valor1,valor2)}')
